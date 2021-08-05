@@ -1,0 +1,37 @@
+body {  background-image: url("habiba.jpg"); background-repeat:no-repeat; background-size: cover;background-attachment: fixed; 
+  background-position: center; }
+h2 { display: block;  padding: 5px; margin:10px;text-align:inherit;color: burlywood;letter-spacing: 2px ;font-size: 20px ; text-shadow:2px 2px black }
+h3{display: block;  padding: 5px; margin: 10px;text-align:inherit;color: burlywood;letter-spacing: 2px ;font-size: 20px ; text-shadow:0.3px 0.3px black;font-family:cursive}
+.selector{display: block;  padding: 5px; margin:10px;text-align:inherit;color:gray;letter-spacing: 2px ;font-size: 18px ; text-shadow:0.3px 0.3px black;background-color:antiquewhite;font-family:serif; }
+.selector2{display: block;  padding: 5px; margin:10px;text-align:inherit;color:gray;letter-spacing: 2px ;font-size: 18px ; text-shadow:2px 1px black;background-color:antiquewhite;font-family:sans-serif
+}
+.search-btn{padding:10px 16px; margin:20px ;color: burlywood; background-color: antiquewhite ; text-align: center;letter-spacing: 2px ;font-size: 15px ; text-shadow:1px 2px gray; border-radius: 40px;}
+.search-btn:hover{cursor:pointer; background-color: brown; color:white; transition-duration: 1s}
+.from-box{background: rgba(255,255,255,0.5);width: auto ; padding-left:70px;padding-top: 10px;  border-radius: 40px;
+ }
+.logo{text-shadow: 2px 2px 4px white; padding-left: 90px;}
+.navigation{text-shadow: 2px 2px 4px black; padding-left: 90px;}
+.logo1 {width: 50px; height: 50px; padding-left: 20px;}
+li a:hover {  font-style:oblique;
+    width: relative;
+   height: relative;
+    border-style: double;
+    border-style: solid;
+    border-color: wheat;
+   border-radius: 50%;
+transition-duration: 1s;}
+li a { color: darkgrey;
+    padding-right: 15px;
+    padding-left: 15px;
+    float: left; /* alshan ykunu gmb b3d*/
+    border-right:1px solid white;} /* to make borders between each item in the list*/
+ul { list-style-type: none;
+    margin: inherit;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    float: left;
+    padding: 20px 100px; margin-left: 350px;}
+.selector {display: inline;border-radius: 40px;}
+.selector2 {display: inline;border-radius: 40px;}

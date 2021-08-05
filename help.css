@@ -1,0 +1,115 @@
+
+
+*
+{margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;}
+.header{ height: 200pxpx;
+    height: 200px;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    margin-bottom: 50px;}
+
+.help-item{ position: relative;
+    display: flex;
+    margin: 90px 283px;
+    left: -143px;
+    top: 26px;
+    padding: 17px 52px;
+    margin-top: auto;
+    border-radius: 26px;
+    box-shadow: 3 0 2px 1px rgb(0 140 186 / 50%);
+    width: 1000px;
+    box-shadow: 0 0 48px 16px rgb(0 255 103 / 24%);
+    border: solid 3px;
+    background: rgba(255,255,255,0.5);}
+
+.help-item-1{position: inherit;
+    display: flex;
+    margin: 109px 283px;
+    left: -30px;
+    top: 1023px;
+    padding: 17px 52px;
+    border-radius: 26px;
+    box-shadow: 3 0 2px 1px rgb(0 140 186 / 50%);
+    width: 1000px;
+    box-shadow: 0 0 48px 16px rgb(0 255 103 / 24%);
+    border: solid 3px;
+    background: rgba(255,255,255,0.5);}
+
+.help-item-1 .pic{background-image: url("lost.png");
+      background-size: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 135px;
+    border-radius: 12px;
+    margin: 11px;
+    padding: 56px;
+    text-align: center;
+    border: none;
+    width: 120px;}
+
+.help-item .pic1{background-image: url("help.jpeg");
+      background-size: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 135px;
+    border-radius: 12px;
+    margin: 11px;
+    padding: 56px;
+    text-align: center;
+    border: solid;
+    width: 120px;}
+
+.help-item .pic2 {background-image: url("feedback.jpeg");
+      background-size: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 135px;
+    border-radius: 12px;
+    margin: 11px;
+    padding: 56px;
+    text-align: center;
+    border: solid;
+    width: 120px;}
+
+.help-item .pic{background-image: url("safety.png");
+      background-size: 125px;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 135px;
+    border-radius: 12px;
+    margin: 11px;
+    padding: 56px;
+    text-align: center;
+    border: solid;
+    width: 125px;}
+
+#button{padding:10px 16px; 
+    margin:20px ;
+    color: brown;
+    background-color: antiquewhite ;
+    text-align: center;
+    letter-spacing: 2px ;
+    font-size: 15px ;
+    border-radius: 40px;}
+
+#button:hover{cursor:pointer;
+    background-color: brown;
+    color:white; 
+    transition-duration: 1s}
+
+h2{font-size: 30px;
+    margin: 4px 2px;}
+
+p{margin: 9px 11px;
+  font-size: 23px;}
+
+.words{margin: 9px 25px;
+    size: 17px;
+    width: 445px;}
+.help-list {position: absolute;
+           margin: -118px;
+           z-index: -10;
+           width: 1381px;}
