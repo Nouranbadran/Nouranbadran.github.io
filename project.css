@@ -35,3 +35,5 @@ ul { list-style-type: none;
     padding: 20px 100px; margin-left: 350px;}
 .selector {display: inline;border-radius: 40px;}
 .selector2 {display: inline;border-radius: 40px;}
+.datebox {display: inline;border-radius: 40px;color: burlywood; background-color: antiquewhite ;font-size: 15px ;}
+.table {border-spacing: 30px }
